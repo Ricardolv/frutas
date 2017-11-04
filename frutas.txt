@@ -3,3 +3,8 @@ Melancia
 Amora
 Cereja
 Acerola
+Banana
+Manga
+Carambola
+Abacaxi
+Percego
